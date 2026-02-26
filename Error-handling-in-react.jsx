@@ -84,6 +84,8 @@ const coursesList=courses.map(
     );
 }
 
+//npx json-server --watch data/dummyData.json  --port 3000 --static ./data
+
 
 export default CourseList;
 
